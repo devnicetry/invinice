@@ -1,0 +1,1244 @@
+[
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInv",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInv",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInv",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInv",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInv",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInv",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInv",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInv",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInv",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInv",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInv",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInv",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvEvent",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvEvent",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvEvent",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvEvent",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvEvent",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvEvent",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvEvent",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvEvent",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvEvent",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvEvent",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvEvent",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvEvent",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvEvent",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvEvent",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvEvent",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvStory",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvStory",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvStory",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvStory",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvStory",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvStory",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvStory",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvStory",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvStory",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvStory",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvStory",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvStory",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvStory",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvStory",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvStory",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGallery",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGallery",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGallery",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGallery",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGallery",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGallery",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGallery",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGallery",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGallery",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGallery",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGallery",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGallery",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGallery",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGallery",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGallery",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvWedding",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvWedding",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvWedding",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvWedding",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvWedding",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvWedding",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvWedding",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvWedding",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvWedding",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvWedding",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvWedding",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvWedding",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvWedding",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvWedding",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvWedding",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtGift",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtGift",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtGift",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtGift",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtGift",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtGift",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtGift",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtGift",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtGift",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtGift",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtGift",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtGift",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtGift",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtGift",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtGift",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGift",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGift",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGift",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGift",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGift",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGift",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGift",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGift",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGift",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGift",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGift",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGift",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvGift",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvGift",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvGift",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvShare",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvShare",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvShare",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvShare",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvShare",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvShare",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvShare",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvShare",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvShare",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvShare",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvShare",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvShare",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvShare",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvShare",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvShare",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvComment",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvComment",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvComment",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvComment",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvComment",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvComment",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvComment",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvComment",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvComment",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvComment",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvComment",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvComment",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvComment",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvComment",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvComment",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtPaymentMethod",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtPaymentMethod",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtPaymentMethod",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtPaymentMethod",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtPaymentMethod",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtPaymentMethod",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtPaymentMethod",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtPaymentMethod",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtPaymentMethod",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtPaymentMethod",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtPaymentMethod",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtPaymentMethod",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "DtPaymentMethod",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "DtPaymentMethod",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "DtPaymentMethod",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPayment",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPayment",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPayment",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPayment",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPayment",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPayment",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPayment",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPayment",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPayment",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPayment",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPayment",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPayment",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPayment",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPayment",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPayment",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPreset",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPreset",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPreset",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPreset",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPreset",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPreset",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPreset",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPreset",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPreset",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPreset",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPreset",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPreset",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvPreset",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvPreset",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvPreset",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvVideo",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvVideo",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvVideo",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvVideo",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvVideo",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvVideo",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvVideo",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvVideo",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvVideo",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvVideo",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvVideo",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvVideo",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WedInvVideo",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "reseller",
+    "resource": "WedInvVideo",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WedInvVideo",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
